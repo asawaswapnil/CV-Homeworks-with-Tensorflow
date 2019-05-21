@@ -1,0 +1,6 @@
+The best config from 8 configs I tried was :
+  num_steps = 40
+  hidden_size = 200
+  keep_prob = 1.0
+This gave more training perplexity( 45 instead of 40 as compared to baseline provided to us) but it gave less test perplexity( 116 instead of 118 as compared to baseline provided to us).  
+

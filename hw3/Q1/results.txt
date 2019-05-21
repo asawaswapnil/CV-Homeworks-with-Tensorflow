@@ -1,0 +1,7 @@
+Tiny yolo Resulted mAP score :0.824745532587
+
+Time :150.230015993
+
+Yolo Resulted mAP score :0.836682663108
+
+Time :219.118554831
